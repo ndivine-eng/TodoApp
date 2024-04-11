@@ -1,6 +1,6 @@
 TodApp 
 Overview
-This project is a minimal viable product (MVP) of a project management web application developed using  React and its compailor vite . The application allows users to create, manage, and track their projects and tasks efficiently. Additionally, Docker is utilized for containerization to ensure easy deployment and scalability across different environments.
+This project represents a minimal viable product (MVP) of a web-based project management application. Developed using React and its compiler Vite and Tailwind CSS for styling, the application enables users to efficiently create, manage, and track their projects and tasks. Additionally, HTML provides the foundation for the React + Vite web application to function properly and display content to users in the browser. Docker is also incorporated for containerization, ensuring seamless deployment and scalability across various environments.
 
 Features
 . Ability to add new tasks
@@ -8,6 +8,8 @@ Features
 . Mark tasks as completed
 
 Technologies Used
+Html
+Tailwind CSS
 React
 Vite (as the compiler)
 Docker
